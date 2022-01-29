@@ -1,3 +1,2 @@
-# CSCI17_Blog
+# Juan's CSCI17 Blog
 
-## Juan's Blog
