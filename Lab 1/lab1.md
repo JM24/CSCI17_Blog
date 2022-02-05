@@ -1,9 +1,9 @@
 # Lab 1
 
-## Juan Mercado
-## February 4th, 2022
+### Juan Mercado
+### February 4th, 2022
 
-### Overview
+#### Overview
 
 ##### Step 1:
 
