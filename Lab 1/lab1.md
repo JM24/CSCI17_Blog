@@ -9,7 +9,7 @@
 
 <img src="lab1_1.1.jpeg" width="800">
 
-I read through the first task and briefly looked through the Hacktivities page and learning paths provided.
+I read through the Task 1 and briefly looked through the Hacktivities page and learning paths provided.
 
 ##### Step 2:
 
