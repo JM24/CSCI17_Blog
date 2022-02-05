@@ -1,5 +1,3 @@
-# Juan Mercado's Blog
+# Juan's Labs
 
-## Labs
-
-### [Lab1](Lab 1/lab1.md)
+## [Lab1](Lab 1/lab1.md)
