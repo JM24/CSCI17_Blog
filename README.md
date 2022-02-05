@@ -1,3 +1,5 @@
-# Juan's Labs
+# Juan's Blog
 
-## [Lab1](Lab 1/lab1.md)
+## Labs
+
+### [Lab1](Lab 1/lab1.md)
