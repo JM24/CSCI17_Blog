@@ -1,4 +1,4 @@
-# Juan Mercado
+# Juan Mercado's Blog
 
 ## Labs
 
