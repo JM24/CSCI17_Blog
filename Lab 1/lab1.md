@@ -5,19 +5,19 @@
 
 #### Overview
 
-##### Step 1:
+##### Task 1:
 
 <img src="lab1_1.1.jpeg" width="800">
 
 I read through Task 1 and briefly looked through the Hacktivities and learning paths pages provided.
 
-##### Step 2:
+##### Task 2:
 
 <img src="lab1_1.2.jpeg" width="800">
 
 Task 2 described one of the largest areas in the Cyber Security field which is offensive security and that the most common job is a penetration tester. When I finished reading the passage I answered the question correctly.
 
-##### Step 3:
+##### Task 3:
 
 <img src="lab1_1.3.jpeg" width="800">
 
