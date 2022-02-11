@@ -59,4 +59,4 @@ Software updates are very important because they allow the developers to add new
 
 ##### Task 10:
 
-I read through the Conclusiona and completed the Common Attacks room.
+I read through the Conclusion and completed the Common Attacks room.
