@@ -15,7 +15,7 @@ I read the introduction for this week's lab.
 
 <img src="lab4_4.2.jpeg" width="800">
 
-I conductied research and looked online to find the answers I needed to answer the questions.
+I conducted research and looked online to find the answers I needed to answer the questions.
 
 ##### Task 3:
 
