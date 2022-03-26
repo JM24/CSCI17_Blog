@@ -9,7 +9,7 @@
 
 <img src="lab6_6.1.JPG" width="400">
 
-Using the Keybase app 
+Using the Keybase app I encrypted a message that I am going to share with the user: crustacer24.
 
 ##### Task 2:
 
