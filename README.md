@@ -9,5 +9,5 @@
 ### Week 6: [Lab 5](Lab 5/lab5.md)
 ### Week 7: [Lab 6](Lab 6/lab6.md)
 ### Week 9: [Lab 7](Lab 7/lab7.md)
-### Week 11:
-### Week 12:
+### Week 11: [Lab 9](Lab 9/lab9.md)
+### Week 12: [Lab 10](Lab 10/lab10.md)
