@@ -7,4 +7,8 @@
 
 ##### Task 1:
 
-<img src="" width="400"
+<img src="lab9_9.1.jpeg" width="400">
+
+##### Task 2:
+
+<img src="lab9_9.2.jpeg" width="400">
